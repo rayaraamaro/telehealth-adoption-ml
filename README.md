@@ -15,7 +15,7 @@ Todo o desenvolvimento, explicações didáticas, gráficos e interpretações e
 Arquivo utilizado:
 - `TMEDTREND_PUBLIC_250827.csv`
 
-[Link do arquivo para download]("https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/medicare-telehealth-trends")
+[Link do arquivo para download](https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/medicare-telehealth-trends)
 
 Principais colunas:
 - Categóricas: `Year`, `quarter`, `Bene_Geo_Desc`, `Bene_RUCA_Desc`, `Bene_Age_Desc`, `Bene_Sex_Desc`, `Bene_Race_Desc`, `Bene_Mdcd_Mdcr_Enrl_Stus`, `Bene_Mdcr_Entlmt_Stus`
